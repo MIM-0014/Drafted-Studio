@@ -6,9 +6,8 @@ This project was one of my very first web development projects, created during t
 
 ##  Live Demo
 
-Live Site:** *Add your live project link here*
-Source Code:** *Add your GitHub repository link here*
-
+Live Demo:https://lnkd.in/erdKn5DU
+GitHub Repository:https://lnkd.in/eZvYNipD
 
 
 ##  Features
