@@ -4,14 +4,14 @@ A modern, responsive landing page built using **HTML5** and **CSS3**.
 
 This project was one of my very first web development projects, created during the beginning of my learning journey. It focuses on semantic HTML, responsive layouts, clean UI design, and modern CSS techniques without using any frameworks or JavaScript.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Live Site:** *Add your live project link here*
 Source Code:** *Add your GitHub repository link here*
 
 
 
-## ✨ Features
+##  Features
 
 * Responsive design
 * Semantic HTML5 structure
@@ -25,9 +25,9 @@ Source Code:** *Add your GitHub repository link here*
 * Clean and organized code
 * Mobile-friendly layout
 
----
 
-## 🛠️ Built With
+
+##  Built With
 
 * HTML5
 * CSS3
@@ -36,7 +36,7 @@ Source Code:** *Add your GitHub repository link here*
 * CSS Grid
 * Responsive Design
 
----
+
 
 ## 📂 Folder Structure
 
@@ -50,9 +50,8 @@ project/
 └── README.md
 ```
 
----
 
-## 🎯 What I Learned
+##  What I Learned
 
 While building this project, I practiced:
 
@@ -63,9 +62,9 @@ While building this project, I practiced:
 * Building reusable UI sections
 * Improving website structure and accessibility
 
----
 
-## 🔮 Future Improvements
+
+##  Future Improvements
 
 * Add JavaScript interactions
 * Improve accessibility
@@ -74,18 +73,7 @@ While building this project, I practiced:
 * Connect the contact form to a backend
 * Deploy with a custom domain
 
----
 
-## 👨‍💻 Author
-
-**Mim**
-
-Aspiring Full-Stack Developer passionate about building modern, user-friendly web applications and continuously learning new technologies.
-
-* GitHub: *Add your GitHub profile*
-* LinkedIn: *Add your LinkedIn profile*
-
----
 
 ## ⭐ A Small Note
 
